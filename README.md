@@ -1,4 +1,4 @@
-# ☁️ Cloud Computing Lab Tasks 
+# ☁️ Cloud Computing Lab Tasks
 
 [![Repo Size](https://img.shields.io/github/repo-size/AmanTariq1/2023-SE-29-Cloud-Computing-Lab-Tasks?style=flat-square)](https://github.com/AmanTariq1/2023-SE-29-Cloud-Computing-Lab-Tasks)
 [![Last Commit](https://img.shields.io/github/last-commit/AmanTariq1/2023-SE-29-Cloud-Computing-Lab-Tasks?style=flat-square)](https://github.com/AmanTariq1/2023-SE-29-Cloud-Computing-Lab-Tasks/commits/main)
@@ -38,17 +38,25 @@ The laboratory work covers Linux and WSL setup, SSH authentication and security 
 
 ```text
 2023-SE-29-Cloud-Computing-Lab-Tasks/
- │
- ├── 2023-SE-29_CC_Lab_01
- ├── 2023-SE-29_CC_Lab_02
- ├── 2023-SE-29_CC_Lab_03
- ├── 2023-SE-29_CC_Lab_04
- ├── 2023-SE-29_CC_Lab_05
- ├── 2023-SE-29_CC_Lab_06
- ├── 2023-SE-29_CC_Lab_07
- └── 2023-SE-29_CC_Lab_08
-README.md
+    ├── Lab Task 01 – WSL Ubuntu Installation
+    ├── Lab Task 02 – SSH Key-Based Authentication
+    ├── Lab Task 03 – SSH Security Hardening
+    ├── Lab Task 04 – Static Website Deployment
+    ├── Lab Task 05 – Backend Web App Deployment
+    ├── Lab Task 06 – Docker Fundamentals
+    ├── Lab Task 07 – Dockerfile Custom Image
+    └── Lab Task 08 – Docker Compose
+    └── README.md
+    └── docker-web-app -lab_07.zip
+    └── docker-web-app.zip
+    └── my-backend-app.zip
+    └── my-website.zip
+    
+```
 
+> **Note:** The `2023-SE-29.zip` archive contains the Word/PDF documentation for all eight laboratory tasks.
+
+---
 
 # 🧪 Lab Tasks Summary
 
