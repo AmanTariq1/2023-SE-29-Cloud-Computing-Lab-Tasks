@@ -54,7 +54,7 @@ The laboratory work covers Linux and WSL setup, SSH authentication and security 
     
 ```
 
-> **Note:** The `2023-SE-29.zip` archive contains the Word/PDF documentation for all eight laboratory tasks.
+
 
 ---
 
